@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ivanlougan/todo-list-react-app/static/css/main.8c8c8ebf.css",
+    "main.js": "/ivanlougan/todo-list-react-app/static/js/main.9a2d685e.js",
+    "index.html": "/ivanlougan/todo-list-react-app/index.html",
+    "main.8c8c8ebf.css.map": "/ivanlougan/todo-list-react-app/static/css/main.8c8c8ebf.css.map",
+    "main.9a2d685e.js.map": "/ivanlougan/todo-list-react-app/static/js/main.9a2d685e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8c8c8ebf.css",
+    "static/js/main.9a2d685e.js"
+  ]
+}
